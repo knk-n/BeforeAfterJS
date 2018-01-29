@@ -23,7 +23,7 @@ Write this in your html body tag bottom.
 
 And write this in your html body tag where you set BeforeAfter slider.
 
-&lt;div class=&quot;ba-slider&quot;&gt;
+    &lt;div class=&quot;ba-slider&quot;&gt;
    &lt;img alt=&quot;before&quot; src=&quot;【beforeの画像パス(URL)】&quot; /&gt;
    &lt;div class=&quot;resize&quot;&gt;
        &lt;img alt=&quot;after&quot; src=&quot;【afterの画像パス(URL)】&quot; /&gt;
