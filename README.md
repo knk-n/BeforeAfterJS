@@ -1,4 +1,4 @@
-# BeforeAfter
+# BeforeAfterJS
 
 ## A simple and responsive image comparison slider 
 
